@@ -1,0 +1,67 @@
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\App.xbf
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\MainPage.xbf
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Weather App.UWP.xr.xml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Weather App.UWP.exe
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Weather App.UWP.pdb
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\resources.pri
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\AppxManifest.xml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Core\Weather App.UWP.exe
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Weather App.UWP.build.appxrecipe
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\System.Net.Http.Extensions.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\System.Net.Http.Primitives.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\System.Runtime.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Weather App.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Weather App.pdb
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\bin\x86\Debug\Weather App.dll.config
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\Weather App.UWP.csproj.AssemblyReference.cache
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\App.g.i.cs
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\App.g.cs
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\MainPage.g.cs
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\App.xaml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\MainPage.xaml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\App.xbf
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\MainPage.xbf
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\Weather App.UWP.csproj.CoreCompileInputs.cache
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\Weather App.UWP.csproj.CopyComplete
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\Weather App.UWP.exe
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\Weather App.UWP.pdb
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\priconfig.xml
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\resources.resfiles
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\pri.resfiles
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\qualifiers.txt
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
