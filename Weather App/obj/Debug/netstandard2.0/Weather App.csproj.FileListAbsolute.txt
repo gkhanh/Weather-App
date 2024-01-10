@@ -1,0 +1,16 @@
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\bin\Debug\netstandard2.0\Weather App.dll.config
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\bin\Debug\netstandard2.0\Weather App.deps.json
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\bin\Debug\netstandard2.0\Weather App.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\bin\Debug\netstandard2.0\ref\Weather App.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\bin\Debug\netstandard2.0\Weather App.pdb
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.csproj.App.config
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.GeneratedMSBuildEditorConfig.editorconfig
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.AssemblyInfoInputs.cache
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.AssemblyInfo.cs
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.csproj.CoreCompileInputs.cache
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\XamlC.stamp
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\ref\Weather App.dll
+D:\1st Year\Quarter 4\Real World Interaction\Project\Project Weather app Xamarin\Weather App\Weather App\obj\Debug\netstandard2.0\Weather App.pdb
